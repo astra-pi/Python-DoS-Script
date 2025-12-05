@@ -1,4 +1,4 @@
-![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Network+Stress+Test+Tool;Auditoría+de+QoS+y+Carga)
+![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=☠️+Python+DoS+Simulation;Educational+Security+Script)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Protocol-UDP%2FHTTP-blue?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Protocol">
