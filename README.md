@@ -52,10 +52,10 @@ El script soporta argumentos para personalizar la auditoría de estrés:
 
 **El uso de este software está sujeto a las siguientes condiciones éticas:**
 
-1.  🚫 **Terceros:** La inundación de redes o hosts de terceros sin autorización escrita se considera una actividad delictiva en la mayoría de las jurisdicciones.
-2.  🏠 **Self-Hosting:** Inundar sus propios hosts o redes de producción puede causar pérdidas de servicio reales; hágalo con precaución.
-3.  🧪 **Propósito:** Se utiliza principalmente en **entornos de laboratorio** para pruebas de Calidad de Servicio (QoS).
-4.  📉 **Rendimiento:** Para pruebas de estrés empresarial a gran escala, se recomiendan soluciones de hardware dedicado.
+1.  **Terceros:** La inundación de redes o hosts de terceros sin autorización escrita se considera una actividad delictiva en la mayoría de las jurisdicciones.
+2.  **Self-Hosting:** Inundar sus propios hosts o redes de producción puede causar pérdidas de servicio reales; hágalo con precaución.
+3.  **Propósito:** Se utiliza principalmente en **entornos de laboratorio** para pruebas de Calidad de Servicio (QoS).
+4.  **Rendimiento:** Para pruebas de estrés empresarial a gran escala, se recomiendan soluciones de hardware dedicado.
 
 ---
 
